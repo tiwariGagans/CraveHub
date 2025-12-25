@@ -77,7 +77,7 @@ Version 17 or higher.Maven: For building the project.MySQL Server: Ensure it is 
 Note: Check src/main/resources/application.properties to ensure the database name matches (cravehub) and update your MySQL username and password.
 
 ## 3. Clone & BuildBash# Clone the repository
-git clone [https://github.com/tiwariGagans/CraveHub.git](https://github.com/tiwariGagans/CraveHub.git)
+git clone (https://github.com/tiwariGagans/CraveHub.git)
 
 # Navigate to directory
     cd CraveHub
